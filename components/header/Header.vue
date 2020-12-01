@@ -19,7 +19,7 @@
             <VmSearch></VmSearch>
           </div>
         </div>
-        
+
         <div class="navbar-end">
           <div class="navbar-item social">
             <a href="#" class="icon" :title="facebookTooltip">
